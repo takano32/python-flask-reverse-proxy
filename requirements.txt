@@ -1,2 +1,6 @@
+flake8
+black
+mypy
+
 requests
 flask
